@@ -1,7 +1,7 @@
 ## CranioCorporoGraphy - TFE2020
 ---
-> #### ABSTRACT:
-> This thesis is qbout ...
+#### ABSTRACT:
+This thesis is qbout ...
 
 
 You can use the [editor on GitHub](https://github.com/georgehart/CranioCorporoGraphy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
