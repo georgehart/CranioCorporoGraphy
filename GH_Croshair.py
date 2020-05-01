@@ -1,8 +1,10 @@
 ''' ------------------------------------------------------------------------------------------------------------------
 
-Project     TFE CranioCorporoGraphy
-Author:     Georges Hart
-Date :      November 2019
+Project     : TFE CranioCorpoGraphy
+Author:     : Georges Hart
+Date        : November 2019
+
+Students    : Chafiq, Ilias
 
 
 ------------------------------------------------------------------------------------------------------------------ '''
@@ -109,3 +111,8 @@ print(a)
 # ----- shutdown the camera -----
 video.release()
 cv2.destroyAllWindows()
+
+''' ----- BIBLIOGRAPHY -----
+
+
+'''
